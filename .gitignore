@@ -13,3 +13,4 @@
 .externalNativeBuild
 .cxx
 local.properties
+app/src/main/assets/gtfs/stop_times.txt
